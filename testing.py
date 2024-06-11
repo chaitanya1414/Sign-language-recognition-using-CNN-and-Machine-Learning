@@ -11,12 +11,7 @@ label_mapping = {
     0: 'A', 
     1: 'B', 
     2: 'C', 
-    3: 'L',  
-    4: 'Bye', 
-    5: 'Ok', 
-    6: 'Wow',
-    7: 'Chaitanya',
-    8: 'Blank'  # Assuming 'Blank' is a class you've trained your model with
+    3: 'L'
 }
 
 # Set a confidence threshold to determine if a prediction should be considered valid
