@@ -32,11 +32,7 @@ label_mapping = {
     'A': 0,
     'B': 1,
     'C': 2,
-    'L': 3,
-    'Bye': 4,
-    'Ok': 5,
-    'Wow': 6,
-    'Chaitanya' : 7
+    'L': 3
 }
 
 # Number of classes is now 8
