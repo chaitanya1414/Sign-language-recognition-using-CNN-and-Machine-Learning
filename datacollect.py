@@ -20,11 +20,7 @@ labels_keys = {
     'A': ord('a'),
     'B': ord('b'),
     'C': ord('c'),
-    'L': ord('l'),
-    'Bye': ord('y'),
-    'Ok': ord('o'),
-    'Wow': ord('w'),
-    'Chaitanya' : ord('x')
+    'L': ord('l')
     # Add more labels and keys as needed
 }
 
