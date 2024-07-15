@@ -1,4 +1,4 @@
-# Sign Language Recognition with CNN
+# Sign Language Recognition with CNN and Python
 This project uses a Convolutional Neural Network (CNN) to recognize American Sign Language (ASL) gestures.
 
 
